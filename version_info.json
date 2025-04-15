@@ -1,10 +1,10 @@
 {
-  "version": "4.1.0",
-  "download_url": "https://github.com/wprise/ftheme/releases/download/4.1.0/framey.zip",
+  "version": "4.0.5",
+  "download_url": "https://github.com/wprise/ftheme/releases/download/4.0.5/framey.zip",
   "info_url": "https://github.com/wprise/ftheme/",
   "plugins": {
-    "uicore-framework": "https://github.com/wprise/ftheme/releases/download/4.1.0/uicore-framework.zip",
-    "metform-pro": "https://github.com/wprise/ftheme/releases/download/4.1.0/metform-pro.zip",
-    "bdthemes-element-pack": "https://github.com/wprise/ftheme/releases/download/4.1.0/bdthemes-element-pack.zip"
+    "uicore-framework": "https://github.com/wprise/ftheme/releases/download/4.0.5/uicore-framework.zip",
+    "metform-pro": "https://github.com/wprise/ftheme/releases/download/4.0.5/metform-pro.zip",
+    "bdthemes-element-pack": "https://github.com/wprise/ftheme/releases/download/4.0.5/bdthemes-element-pack.zip"
   }
 }
