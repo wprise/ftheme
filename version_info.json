@@ -4,7 +4,7 @@
   "info_url": "https://github.com/wprise/ftheme/",
   "plugins": {
     "uicore-framework": {
-      "version": "6.3.1",
+      "version": "6.3.2",
       "download_url": "https://github.com/wprise/ftheme/releases/download/main/uicore-framework.zip"
     },
     "metform-pro": {
