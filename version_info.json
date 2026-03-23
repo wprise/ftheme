@@ -3,8 +3,17 @@
   "download_url": "https://github.com/wprise/ftheme/releases/download/main/framey.zip",
   "info_url": "https://github.com/wprise/ftheme/",
   "plugins": {
-    "uicore-framework": "https://github.com/wprise/ftheme/releases/download/main/uicore-framework.zip",
-    "metform-pro": "https://github.com/wprise/ftheme/releases/download/main/metform-pro.zip",
-    "bdthemes-element-pack": "https://github.com/wprise/ftheme/releases/download/main/bdthemes-element-pack.zip"
+    "uicore-framework": {
+      "version": "6.3.0",
+      "download_url": "https://github.com/wprise/ftheme/releases/download/main/uicore-framework.zip"
+    },
+    "metform-pro": {
+      "version": "3.9.6",
+      "download_url": "https://github.com/wprise/ftheme/releases/download/main/metform-pro.zip"
+    },
+    "bdthemes-element-pack": {
+      "version": "9.0.12",
+      "download_url": "https://github.com/wprise/ftheme/releases/download/main/bdthemes-element-pack.zip"
+    }
   }
 }
